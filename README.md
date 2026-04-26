@@ -5,3 +5,7 @@ Este proyecto consiste en el desarrollo de un **Curriculum Vitae y Portafolio We
 
 
 *Desarrollado por Adrian Aguilar - Aprendiz ADSO*
+## Revisión
+
+Estructura HTML correcta
+Proyecto visualizado correctamente en GitHub Pages
